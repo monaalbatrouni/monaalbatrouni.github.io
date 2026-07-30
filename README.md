@@ -1,5 +1,5 @@
 # Mona Al Batrouni
-
+Email: mab108@mail.aub.edu
 MSc in Mathematics  
 American University of Beirut
 
@@ -30,4 +30,4 @@ American University of Beirut
 - **STAT 210 – Elementary Statistics for Sciences** (Fall 2024) 
  
  
- Email: mab108@mail.aub.edu
+ 
