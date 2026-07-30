@@ -2,7 +2,7 @@
 
 MSc in Mathematics  
 American University of Beirut
-Email: mab108@mail.aub.edu
+
 
 ## Research Interests
 - Complex Analysis and CR Geometry
@@ -32,3 +32,4 @@ Email: mab108@mail.aub.edu
  
  
  
+Contact Info: mab108@mail.aub.edu
