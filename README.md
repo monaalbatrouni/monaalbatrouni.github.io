@@ -1,7 +1,6 @@
 # Mona Al Batrouni
-
-
 Email: mab108@mail.aub.edu
+
 MSc in Mathematics  
 American University of Beirut
 
